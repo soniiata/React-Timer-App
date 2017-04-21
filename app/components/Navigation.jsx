@@ -24,7 +24,7 @@ var Navigation = () => {
       <div className="top-bar-right">
         <ul className="menu">
           <li className="menu-text">
-            Create by <a href="#" targer="_blank">Soni</a>
+            Create by <a href="#" targer="_blank">S</a>
           </li>
         </ul>
       </div>
